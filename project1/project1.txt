@@ -1,0 +1,3 @@
+Address: bc1qpt79aetm0mhfcvsqa4g7q2cf40ce6zpqun5e0t
+Message: bc1qpt79aetm0mhfcvsqa4g7q2cf40ce6zpqun5e0t: Udacity rocks!
+Signature: IPUSiqk6hZbRNDmrTHAQGv25X8GRobGrIpR+Hb02mXcYc2eDHph+L8isfnn9Ne6M88eRHdhD0JWF70KCY0py2lc=
